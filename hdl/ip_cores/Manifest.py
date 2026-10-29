@@ -1,0 +1,5 @@
+modules = {
+    "local": [
+        "general-cores",
+    ]
+};
